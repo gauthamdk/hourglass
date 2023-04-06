@@ -1,5 +1,5 @@
 # hourglass
 
-### [Ideation | April 6, 2023 ](https://github.com/Soojin-Lee0819/machineLab/tree/main/6February)
+### [Ideation + Laser Cut Experiment | April 6, 2023 ](https://github.com/gauthamdk/hourglass/tree/main/ideation)
 
 ![](images/oldtonew.1.png)
