@@ -1,6 +1,6 @@
 # Items List
 
-1. 50 x 50 cm plywood for hourglass (laser cut hourglass shape)
+1. 50 x 50 cm acrylic board for hourglass (laser cut hourglass shape)
 2. 50 x 50 cm (2 pieces) for sandwiching the hourglass plywood
 3. 2 boxes from Professor Shiloh to form 2 storeys
 4. 100 x 50 cm plywood for laser cutting shapes for dunes, stars and buildings and etching for cars, falcons, etc.
@@ -23,3 +23,4 @@
 5. Adjust based on prototypes
 6. Build final pieces with plywood and acrylic
 7. Build platform to place servo 
+8. Get sand for hourglass
