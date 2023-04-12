@@ -16,4 +16,13 @@ Next, we glued the cardboard hourglass to a flat cardboard surface, and then sta
 
 Even with using as many clamps as we did, the sand was still leaking from the sides, as well as going around the hourglass as it flowed down into the bottom. However, most of the sand flowed decently through the hole of the hourglass, and we were able to find out that a 5mm hole is much too big. The total flow time did not even last five seconds. Overall, this prototyping session was very helpful for us in getting a rough estimate of the hourglass dimensions. Here are some videos of the prototype: 
 
-[I'm a relative reference to a repository file](images/sand_cardboard_porrotype.MOV)
+[Test 1](images/sand_cardboard_porrotype.MOV)
+[Test 2](images/sand_cardboard_2.MOV)
+[Test 3](images/sand_cardboard_3.MOV)
+
+# April 12th
+Gautham and Soojin finalized their illustrator work from April 10th, and plan to lasercut their design on April 13th. Here is the current design:
+<p align="center" width="100%">
+    <img width="33%" src=images/cutout.png>
+</p>
+The black circle in the middle is the area where the hourglass will rotate. The thick black strokes are all areas that will be laser etched into the plywood surface, and the think pink lines will be the places where the plywood is laser cut. There are three sections of these laser cuts, including the sand dune at the top, the U.A.E. skyline, and the wheels of the jeep underneath the skyline. 
