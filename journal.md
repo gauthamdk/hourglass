@@ -35,10 +35,16 @@ During this class, we focused on prototyping and testing our laser cutting desig
 Nathan and Soojin worked primarily on the prototyping process. Soojin focused on testing the hourglass, while Nathan worked on testing the motor. For the motor testing, our primary concern was the capability of the servo motor in handling the weight of the piece. We used a piece of plywood that was similar in weight to the final hourglass, bolted the servo motor onto the wood, and tested its turning ability. Despite Nathan eyeballing its centering on the wood, we found no concerns regarding the motor's capabilities for the final piece.
 
 It's important to note that we originally designed a structure that would secure the motor to the hourglass. However, after realizing that the motor had its own securing mechanisms, we no longer believe that we need any additional mechanisms to secure the motor to the hourglass. Please see the photos and videos of the motor prototyping process below.
+MOTOR PICS AND VIDS
 
 ### Hourglass
 Soojin led the hourglass testing.
+HOURGLASS PICS AND VIDS
 
 ## Laser Cutting
-Gautham led the laser cut design testing process. The cardboard result looked great, but the laser cutting machine in the IM lab was not large enough for the full scale of our project. Therefore, we scaled down the design just to test it out. The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
+Gautham led the laser cut design testing process. The cardboard result looked great, but the laser cutting machine in the IM lab was not large enough for the full scale of our project. Therefore, we scaled down the design just to test it out. Here is how it turned out:
+FIRST LASER PIC
+
+The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
+CURRENT DESIGN
 
