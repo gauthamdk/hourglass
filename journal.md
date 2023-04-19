@@ -35,7 +35,11 @@ During this class, we focused on prototyping and testing our laser cutting desig
 Nathan and Soojin worked primarily on the prototyping process. Soojin focused on testing the hourglass, while Nathan worked on testing the motor. For the motor testing, our primary concern was the capability of the servo motor in handling the weight of the piece. We used a piece of plywood that was similar in weight to the final hourglass, bolted the servo motor onto the wood, and tested its turning ability. Despite Nathan eyeballing its centering on the wood, we found no concerns regarding the motor's capabilities for the final piece.
 
 It's important to note that we originally designed a structure that would secure the motor to the hourglass. However, after realizing that the motor had its own securing mechanisms, we no longer believe that we need any additional mechanisms to secure the motor to the hourglass. Please see the photos and videos of the motor prototyping process below.
-
+<p align="left" width="100%">
+    <img width="33%" src="images/Apr 17 Motor test 1.png">
+    <img width="33%" src="images/Apr 17 Motor test 2.png">
+    <img width="33%" src="images/Apr 17 Motor test 3.png">
+</p>
 MOTOR PICS AND VIDS
 
 ### Hourglass
