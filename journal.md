@@ -53,5 +53,6 @@ Gautham led the laser cut design testing process. The cardboard result looked gr
     <img width="45%" src=images/Apr_17_cutout2.png>
 </p>
 The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
-CURRENT DESIGN
+<img width="456" alt="Screen Shot 2023-04-19 at 4 27 22 PM" src="https://user-images.githubusercontent.com/77680363/233074755-ce7c9666-78ec-4f0a-bf55-b42e32098477.png">
+
 
