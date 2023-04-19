@@ -36,7 +36,7 @@ Nathan and Soojin worked primarily on the prototyping process. Soojin focused on
 
 It's important to note that we originally designed a structure that would secure the motor to the hourglass. However, after realizing that the motor had its own securing mechanisms, we no longer believe that we need any additional mechanisms to secure the motor to the hourglass. Please see the photos and videos of the motor prototyping process below.
 <p align="center" width="100%">
-    <img width="33%" src=images/cutout.png>
+    <img width="33%" src=images/Apr_17_Motor_test_1.png>
 </p>
 MOTOR PICS AND VIDS
 
