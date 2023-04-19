@@ -38,6 +38,12 @@ It's important to note that we originally designed a structure that would secure
 <p align="center" width="100%">
     <img width="33%" src="images/Apr 17 Motor test 1.png">
 </p>
+<p align="center" width="100%">
+    <img width="33%" src="images/Apr 17 Motor test 2.png">
+</p>
+<p align="center" width="100%">
+    <img width="33%" src="images/Apr 17 Motor test 3.png">
+</p>
 MOTOR PICS AND VIDS
 
 ### Hourglass
