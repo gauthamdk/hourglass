@@ -48,8 +48,10 @@ HOURGLASS PICS AND VIDS
 
 ## Laser Cutting
 Gautham led the laser cut design testing process. The cardboard result looked great, but the laser cutting machine in the IM lab was not large enough for the full scale of our project. Therefore, we scaled down the design just to test it out. Here is how it turned out:
-FIRST LASER PIC
-
+<p align="left" width="100%">
+    <img width="50%" src=images/Apr_17_cutout1.png>
+    <img width="50%" src=images/Apr_17_cutout2.png>
+</p>
 The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
 CURRENT DESIGN
 
