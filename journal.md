@@ -52,7 +52,17 @@ For the prototype, we used acrylic as the cover, cardboard as the hourglass-shap
 </p>
 
 <b>Video of sand moving below:</b>
-[![IMAGE ALT TEXT HERE](images/hourglass_3cm_video.png){width=50%}](https://youtu.be/l0Lp0_8teL8)
+[![IMAGE ALT TEXT HERE](images/hourglass_3cm_video.png){width=50%}](https://youtu.be/l0Lp0_8teL8 "Click to watch on YouTube")
+
+As expected, the sand moved quickly through the hole, taking only 4 seconds to move from one side to the other. However, to achieve the desired speed of 15-20 minutes for sand to move from one place to another, we decided to try using 0.05cm for the next prototype.
+
+[Things to consider]
+
+- Color of sand (considering the plywood background, what color sand would be impactful?)
+- Which material to use to glue acrylic to plywood
+- Thickness of Acrylic
+- Make hole size adjustable using nuts and bolts
+
 
 
 ## Laser Cutting
