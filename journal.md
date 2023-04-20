@@ -43,8 +43,10 @@ It's important to note that we originally designed a structure that would secure
 MOTOR PICS AND VIDS
 
 ### Hourglass
-For hourglass testing, we focused on how first understanding the behavior of sand moving from one side to the other on the design that we have made, thin surface in the shape of ribbon and accordingg to the speed of the sand moving, we wanted to identify the size of the hole that connects the two section.
+For hourglass testing, we aimed to understand the behavior of sand moving from one side to the other on a thin, ribbon-shaped surface in our design. Based on the speed of the sand movement, out next step is to identify the size of the hole that connects the two sections.
+<p align="center" width="100%">
 <img width="33%" src="images/clamp_cardboard.png">
+</p>
 
 Video of sand moving below:
 [![IMAGE ALT TEXT HERE](images/clamp_cardboard.png)]([https://youtu.be/l0Lp0_8teL8](https://youtube.com/shorts/9YMdYfqHZAo))
@@ -58,6 +60,7 @@ Gautham led the laser cut design testing process. The cardboard result looked gr
     <img width="45%" src=images/Apr_17_cutout2.png>
 </p>
 The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
-<img align="center" width="50%" alt="Screen Shot 2023-04-19 at 4 27 22 PM" src="https://user-images.githubusercontent.com/77680363/233074755-ce7c9666-78ec-4f0a-bf55-b42e32098477.png">
+
+<img align="center" width="50%" alt="Screen Shot 2023-04-19 at 4 27 22 PM" src="hourglass_3cm_video.png">
 
 
