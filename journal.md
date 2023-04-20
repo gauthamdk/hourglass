@@ -43,8 +43,13 @@ It's important to note that we originally designed a structure that would secure
 MOTOR PICS AND VIDS
 
 ### Hourglass
-Soojin led the hourglass testing.
-HOURGLASS PICS AND VIDS
+For hourglass testing, we focused on how first understanding the behavior of sand moving from one side to the other on the design that we have made, thin surface in the shape of ribbon and accordingg to the speed of the sand moving, we wanted to identify the size of the hole that connects the two section.
+<img width="33%" src="images/clamp_cardboard.png">
+
+Video of sand moving below:
+[![IMAGE ALT TEXT HERE](images/clamp_cardboard.png)]([https://youtu.be/l0Lp0_8teL8](https://youtube.com/shorts/9YMdYfqHZAo))
+
+
 
 ## Laser Cutting
 Gautham led the laser cut design testing process. The cardboard result looked great, but the laser cutting machine in the IM lab was not large enough for the full scale of our project. Therefore, we scaled down the design just to test it out. Here is how it turned out:
