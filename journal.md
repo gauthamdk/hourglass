@@ -43,14 +43,16 @@ It's important to note that we originally designed a structure that would secure
 MOTOR PICS AND VIDS
 
 ### Hourglass
-For hourglass testing, we aimed to understand the behavior of sand moving from one side to the other on a thin, ribbon-shaped surface in our design. Based on the speed of the sand movement, out next step is to identify the size of the hole that connects the two sections.
+For hourglass testing, our aim was to understand the behavior of sand moving from one side to the other on a thin, ribbon-shaped surface in our design. Based on the speed of the sand movement, our next step is to identify the size of the hole that connects the two sections.
+
+For the prototype, we used acrylic as the cover, cardboard as the hourglass-shaped cutout, and another cardboard as the supporting board. The cardboards were sealed with duct tape to prevent sand from entering the corrugated space. We then clamped the three layers together to ensure enough pressure and a tight seal. Since the materials used were not consistent, such as three acrylic layers or three cardboard layers, it was difficult to "glue" them, which is why we used clamps for the experiment.
+
 <p align="center" width="100%">
 <img width="33%" src="images/clamp_cardboard.png">
 </p>
 
-Video of sand moving below:
-[![IMAGE ALT TEXT HERE](images/clamp_cardboard.png)]([https://youtu.be/l0Lp0_8teL8](https://youtube.com/shorts/9YMdYfqHZAo))
-
+<b>Video of sand moving below:</b>
+[![IMAGE ALT TEXT HERE](images/hourglass_3cm_video.png){width=50%}](https://youtu.be/l0Lp0_8teL8)
 
 
 ## Laser Cutting
@@ -61,6 +63,5 @@ Gautham led the laser cut design testing process. The cardboard result looked gr
 </p>
 The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
 
-<img align="center" width="50%" alt="Screen Shot 2023-04-19 at 4 27 22 PM" src="hourglass_3cm_video.png">
 
 
