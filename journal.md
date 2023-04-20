@@ -43,7 +43,7 @@ It's important to note that we originally designed a structure that would secure
 MOTOR PICS AND VIDS
 
 ### Hourglass
-For hourglass testing, our aim was to understand the behavior of sand moving from one side to the other on a thin, ribbon-shaped surface in our design. Based on the speed of the sand movement, our next step is to identify the size of the hole that connects the two sections.
+Soojin led the hourglass testing. For hourglass testing, our aim was to understand the behavior of sand moving from one side to the other on a thin, ribbon-shaped surface in our design. Based on the speed of the sand movement, our next step is to identify the size of the hole that connects the two sections.
 
 For the prototype, we used acrylic as the cover, cardboard as the hourglass-shaped cutout, and another cardboard as the supporting board. The cardboards were sealed with duct tape to prevent sand from entering the corrugated space. We then clamped the three layers together to ensure enough pressure and a tight seal. Since the materials used were not consistent, such as three acrylic layers or three cardboard layers, it was difficult to "glue" them, which is why we used clamps for the experiment.
 
@@ -52,7 +52,8 @@ For the prototype, we used acrylic as the cover, cardboard as the hourglass-shap
 </p>
 
 <b>Video of sand moving below:</b>
-[![IMAGE ALT TEXT HERE](images/hourglass_3cm_video.png){width=50%}](https://youtu.be/l0Lp0_8teL8 "Click to watch on YouTube")
+<a href="https://www.youtube.com/watch?v=l0Lp0_8teL8"><img src="images/hourglass_3cm_video.png" alt="Image ALT text" width="50%"/></a>
+
 
 As expected, the sand moved quickly through the hole, taking only 4 seconds to move from one side to the other. However, to achieve the desired speed of 15-20 minutes for sand to move from one place to another, we decided to try using 0.05cm for the next prototype.
 
