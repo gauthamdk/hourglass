@@ -81,4 +81,18 @@ In this class, we primarily tested out our hourglass design with actual transpar
 
 There were a few isues. One, the last layer was not completely sealed to the rest due to the difficulty in gluing. For the final design, we will put more glue. There was also any issue of the sand getting blocked due to small rocks sealing the hourglass gap. We will sort through the batch of sand we use for the final design. Finally, the sand did not fully flow through, mainly becuase the bottom ledge of each half are curved. Small amounts of sand were tracked in the two pockets and would not flow freely. To remedy this issue, we have made the curved ledges straight. 
 
+# April 28th
+Write about round 2 laser cut 
 
+Write about round 1 plywood cut 
+
+
+# April 30th
+
+# May 1st 
+
+# May 5th
+
+# May 7th 
+
+# May 8th
