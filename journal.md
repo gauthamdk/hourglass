@@ -95,4 +95,6 @@ Write about round 1 plywood cut
 
 # May 7th 
 
+
 # May 8th
+We finalized assembling the project, including replacing all of the jumper wire connections with solder and attached the design frame to the project frame. The mechanisms did not work initially after we soldered everything, including the stars, traffic lights, and hourglass. However, after some testing with the multimeter, the professor helped us trouble shoot the issue and tidy up the connections. 
