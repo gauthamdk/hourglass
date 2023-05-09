@@ -92,9 +92,10 @@ Write about round 1 plywood cut
 # May 1st 
 
 # May 5th
+We secured the frame structurally today, including implementing a floor, two supporting boards on the side, and a board in between. The "H" structure adequately secures the integrity of the frame. 
 
 # May 7th 
-
+We did some soldering for the connections on the design frame, including the soldering for the star light connections. We also drilled some holes into the board that will ultimately host all the wires and arduinos in order to provide space for the wires. 
 
 # May 8th
 We finalized assembling the project, including replacing all of the jumper wire connections with solder and attached the design frame to the project frame. The mechanisms did not work initially after we soldered everything, including the stars, traffic lights, and hourglass. However, after some testing with the multimeter, the professor helped us trouble shoot the issue and tidy up the connections. 
