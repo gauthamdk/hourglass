@@ -75,24 +75,43 @@ Gautham led the laser cut design testing process. The cardboard result looked gr
 The initial result had some errors, such as the sand dune not being cut out and the skyline on the bottom being proportionally smaller than the sand dunes. To fix these issues, we decided to make the skyline bigger in our next design and change the skyline from Dubai to Abu Dhabi, where the building heights are more even. Additionally, we were not happy with the star design, so we changed them to actual star shapes in the second design. Please see the second design below.
 
 # April 24th
-In this class, we primarily tested out our hourglass design with actual transparent acrylic. We went to the machine lab and cut out the design with the large laser cutter, then used acrylic glue to merge the layers of the hourglass. The main issue in this step is that there are three layers of the hourglass, which makes the last layer very hard to glue. We have to trace the hourglass ledges with the glue, then blindly place the final layer on top. We did not succeed in gluing the last layer until the next day. Here is the end result:
 
-![IMG_6912](https://user-images.githubusercontent.com/77680363/234558447-ac6d4399-e0c9-4a7f-8aa0-124d9ee95e40.png)
+<p align="center" width="100%">
+<img width="33%" src="images/ERB.png">
+    <img width="33%" src="images/acrylicglue.png">
+    <img width="33%" src="images/flatten.png">
+</p>
+In this class, we primrily tested out our hourglass design with actual transparent acrylic. We went to the machine lab and cut out the design with the large laser cutter, then used acrylic glue to merge the layers of the hourglass. The main issue in this step is that there are three layers of the hourglass, which makes the last layer very hard to glue. We have to trace the hourglass ledges with the glue, then blindly place the final layer on top. We did not succeed in gluing the last layer until the next day. Here is the end result:
+
+<p align="center" width="100%">
+<img width="70%" src="images/acrylic1.png">
+</p>
 
 There were a few isues. One, the last layer was not completely sealed to the rest due to the difficulty in gluing. For the final design, we will put more glue. There was also any issue of the sand getting blocked due to small rocks sealing the hourglass gap. We will sort through the batch of sand we use for the final design. Finally, the sand did not fully flow through, mainly becuase the bottom ledge of each half are curved. Small amounts of sand were tracked in the two pockets and would not flow freely. To remedy this issue, we have made the curved ledges straight. 
 
 # April 28th
-Write about round 2 laser cut 
+<p align="center" width="100%">
+<img width="70%" src="images/straight.png">
+</p>
 
-Write about round 1 plywood cut 
+After encountering some trial and error with the first acrylic cut, we made a second cut. This time, we made the hole between the top and bottom of the hourglass much smaller (0.3cm) and straightened the curve to ensure that the sand flows smoothly without getting stuck. We also redesigned and laser cut the plywood board so that its line is aligned with the new straight line of the hourglass acrylic board.
 
+<p align="center" width="100%">
+<img width="70%" src="images/sandquant.png">
+</p>
+
+Finding the exact amount of sand to add before sealing the hourglass was difficult. Therefore, we added more than half of the sand, and then drilled a hole in the center to pour out any excess sand once the bottom is filled.
 
 # April 30th
 
+
 # May 1st 
+Car Wheel 3-D print. 
 
 # May 5th
-We secured the frame structurally today, including implementing a floor, two supporting boards on the side, and a board in between. The "H" structure adequately secures the integrity of the frame. 
+We secured the frame structurally today, including implementing a floor, two supporting boards on the side, and a board in between. The "H" structure adequately secures the integrity of the frame.
+
+We spray painted the car wheel and attached to the main plywood board. 
 
 # May 7th 
 We did some soldering for the connections on the design frame, including the soldering for the star light connections. We also drilled some holes into the board that will ultimately host all the wires and arduinos in order to provide space for the wires. 
