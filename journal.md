@@ -94,7 +94,7 @@ There were a few isues. One, the last layer was not completely sealed to the res
 <img width="70%" src="images/straight.png">
 </p>
 
-After encountering some trial and error with the first acrylic cut, we made a second cut. This time, we made the hole between the top and bottom of the hourglass much smaller (0.3cm) and straightened the curve to ensure that the sand flows smoothly without getting stuck. We also redesigned and laser cut the plywood board so that its line is aligned with the new straight line of the hourglass acrylic board.
+After encountering some trial and error with the first acrylic cut, we made a second cut. This time, we made the hole between the top and bottom of the hourglass much smaller (0.3cm) and straightened the curve to ensure that the sand flows smoothly without getting stuck. We also redesigned and laser cut the plywood board so that its line is aligned with the new straight line of the hourglass acrylic board. The acrylic board is sandwiched as such: 0.4mm thin transparent acrylic board (circle shape) 0.4mm transparent acrylic board cut to hour glass shape, and 0.8mm thick black acrylic board.
 
 <p align="center" width="100%">
 <img width="70%" src="images/sandquant.png">
@@ -118,3 +118,17 @@ We did some soldering for the connections on the design frame, including the sol
 
 # May 8th
 We finalized assembling the project, including replacing all of the jumper wire connections with solder and attached the design frame to the project frame. The mechanisms did not work initially after we soldered everything, including the stars, traffic lights, and hourglass. However, after some testing with the multimeter, the professor helped us trouble shoot the issue and tidy up the connections. 
+
+# May 10th
+<p align="center" width="100%">
+<img width="70%" src="images/final.jpg">
+</p>
+
+[Reflection & Learnings]
+During the final construction period, we found ourselves continuously unbolted the plywood to fix mechanisms behind and between the hourglass structure and the plywood. We learned that creating an accessible design that allows easy access to fix compartments is really important - it would have saved us a lot of time. For example, when the neopixel lights were slightly off-grid and one motor stopped working, we had to undo the plywood, which was time-consuming.
+
+<p align="center" width="100%">
+<img width="70%" src="images/light-off.jpg">
+</p>
+
+Learning how to solder properly and prevent short circuits that can cause electrical burnout was a valuable lesson from this project. One thing we can improve upon is to pre-plan and color-coordinate wires, such as using black for ground and red for power supply, for instance.
