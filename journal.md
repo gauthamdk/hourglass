@@ -102,11 +102,11 @@ After encountering some trial and error with the first acrylic cut, we made a se
 
 Finding the exact amount of sand to add before sealing the hourglass was difficult. Therefore, we added more than half of the sand, and then drilled a hole in the center to pour out any excess sand once the bottom is filled.
 
-# April 30th
-
-
 # May 1st 
-Car Wheel 3-D print. 
+We found an online model for the 3D [file](./Wheel(1).stl) of car wheels that I thought was suitable for the project. I modified the scale of the wheel to fit the cutout and sent the files to the library to print. We received it the following day and spray painted it silver to match the aesthetic.
+
+<img height="300px" src="images/wheel.jpg">
+<img height="300px" src="images/silver.png">
 
 # May 5th
 We secured the frame structurally today, including implementing a floor, two supporting boards on the side, and a board in between. The "H" structure adequately secures the integrity of the frame.
@@ -116,9 +116,16 @@ We spray painted the car wheel and attached to the main plywood board.
 # May 7th 
 We did some soldering for the connections on the design frame, including the soldering for the star light connections. We also drilled some holes into the board that will ultimately host all the wires and arduinos in order to provide space for the wires. 
 
+For the light connections, I etched the stars on a smaller piece of plywood and soldered the Neopixel LEDs onto the plywood and secured them with them. We then attached this to the back of the cutout with some screws to align it properly.
+
 # May 8th
 We finalized assembling the project, including replacing all of the jumper wire connections with solder and attached the design frame to the project frame. The mechanisms did not work initially after we soldered everything, including the stars, traffic lights, and hourglass. However, after some testing with the multimeter, the professor helped us trouble shoot the issue and tidy up the connections. 
 
+Now it was left with the code. The code was each individual component like the stars and traffic lights, the wheels and the hourglass rotation was simply to code independently. But togther I need to use millis() to count the number of minutes that passed to toggle between the different modes. 
+
+Initially, the hourglass would rotate till sand is flowing down. As the sand flows for 3 minutes and the bottom starts getting filled, I dim the stars at the top and the traffic lights turn from red to green and the car wheels rotate. At 6 minutes, the hourglass does another rotation, the traffic lights turn red and the car wheels stop. The stars also become bright again. 
+
+I also added the trigger that would come from the clock so that the mechanism only starts when the trigger is received and when it is finished after 6 minutes we send a signal back but this was later discarded. 
 # May 10th
 <p align="center" width="100%">
 <img width="70%" src="images/final.jpg">
